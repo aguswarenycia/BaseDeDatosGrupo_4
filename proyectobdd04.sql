@@ -49,3 +49,5 @@ create table usuario(
  )
 
  -- AGREGAR LA CLAVE FORANEA DESP DE AGREGAR LA TABLA LOGRO
+
+ --chale moment
